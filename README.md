@@ -13,15 +13,16 @@
 
 - ⚡ Fun fact **I listen songs while coding.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left"style="font-size: 30px;"> Connect with me:</h3>
+<a href="https://www.linkedin.com/in/sai-nithin-6495801b9/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-LinkedIn.jpg" height="50" width="50"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin5736&show_icons=true&locale=en&layout=compact" alt="nithin5736" /></p>
+<br>
+<br>
+<br>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithin5736&show_icons=true&locale=en&layout=compact" alt="nithin5736"/>
+ </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithin5736&show_icons=true&locale=en" alt="nithin5736" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithin5736&" alt="nithin5736" /></p>
-
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=nithin5736&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+</div>
