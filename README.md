@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sai-nithin-6495801b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-nithin-6495801b9" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sai2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sai2004" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sainithin_g20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sainithin_g20" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gubbasainithin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gubbasainithin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user6314e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6314e" height="30" width="40" /></a>
