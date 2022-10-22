@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin5736&label=Profile%20views&color=0e75b6&style=flat" alt="nithin5736" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **Full Stack Web development**
-
-- 📫 How to reach me **LinkedIn**
+Iam a passionate web developer.I like to build applications using node.js library for backened and React.js library or Javascript for frontened
 
 - Check out my portfolio - <a href="https://nithin5736-portfolio.netlify.app/">https://nithin5736-portfolio.netlify.app/</a>
 
