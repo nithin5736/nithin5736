@@ -1,7 +1,6 @@
 <h1 align="center"> Hey, I'm Sai Nithin. 👋 </h1>
- I'm a Web developer and Programmer.
 
-## &nbsp; &nbsp;About Me
+## 👨‍🎓 About Me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin5736&label=Profile%20views&color=0e75b6&style=flat" alt="nithin5736" /> </p>
 
