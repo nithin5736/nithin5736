@@ -1,6 +1,8 @@
 <h1 align="center"> Hey, I'm Sai Nithin. 👋 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin5736&label=Profile%20views&color=0e75b6&style=flat" alt="nithin5736" /> </p>
+</br>
+<img src="https://media4.giphy.com/media/iacy1iCRyhgBNi6Mq1/giphy.gif" alt="nithin5736" /> 
+</br>
 
 ## 👨‍🎓 About Me
 
