@@ -9,7 +9,7 @@
 
 ## 👨‍🎓 About Me
 
-Hey ! I am Sainithin. I am a Full Stack developer and Programmer. I like to develop applications using node.js framework for backend and react.js framework or javascript for frontend. I am a cinephile, melophile and love to play cricket 😁.
+Hey ! I am Sainithin. I am a Full Stack developer and Programmer. I like to develop applications using node.js framework for backend and react.js framework or javascript for frontend. Moreover, I am a cinephile, melophile and love to play cricket 😁 ( Let me know if you have any movies and songs to share 🙂 ).
 
 <br />
 <br />
