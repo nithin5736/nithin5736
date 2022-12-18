@@ -1,5 +1,5 @@
-## Hey, I'm [Sai Nithin][git] 👋
-### I'm a Web developer and Programmer.
+<h1 align="center"> Hey, I'm Sai Nithin. 👋 </h1>
+<h1 align="center"> I'm a Web developer and Programmer. </h1>
 
 ## &nbsp; &nbsp;About Me
 
