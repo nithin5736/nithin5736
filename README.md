@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, I'm Sai Nithin. 👋 </h1>
 
 </br>
-<img width="400" src="https://media4.giphy.com/media/iacy1iCRyhgBNi6Mq1/giphy.gif" alt="nithin5736" /> 
+<img align="right" width="400" src="https://media4.giphy.com/media/iacy1iCRyhgBNi6Mq1/giphy.gif" alt="nithin5736" /> 
 </br>
 
 ## 👨‍🎓 About Me
