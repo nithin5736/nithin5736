@@ -21,6 +21,9 @@ Hey ! I am Sainithin. I am a passionate Web developer and Programmer. I like to 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />    <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />      <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 
+<br />
+<br />
+
 ## 📬 Get in touch
 
 <p align="center">
@@ -28,6 +31,9 @@ Hey ! I am Sainithin. I am a passionate Web developer and Programmer. I like to 
 <a href="https://www.linkedin.com/in/sai-nithin-6495801b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-nithin" height="40" width="40" /></a>
 <a href="mailto:sainithin.g20@iiits.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sai-nithin" height="40" width="40" /></a>
 
+ <br />
+<br />
+  
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nithin5736">
