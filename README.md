@@ -11,8 +11,6 @@
 
 Hey ! I am Sainithin. I am a Full Stack developer and Programmer. I like to develop applications using node.js framework for backend and react.js framework or javascript for frontend. I am a cinephile, melophile and love to play cricket 😁.
 
-- Check out my portfolio - <a href="https://nithin5736-portfolio.netlify.app/">https://nithin5736-portfolio.netlify.app/</a>
-
 <br />
 <br />
 <br />
