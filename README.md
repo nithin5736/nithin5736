@@ -23,7 +23,7 @@ Iam a passionate web developer.I like to build applications using node.js librar
 ## 📬 Get in touch
 
 <p align="center">
-<a href="https://github.com/nithin5736" target="blank"><img align="center" alt="git/nithin5736" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" height="40" width="40"/></a>
+<a href="https://github.com/nithin5736" target="blank"><img align="center" alt="git/nithin5736" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/sai-nithin-6495801b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-nithin" height="40" width="40" /></a>
 <a href="mailto:sainithin.g20@iiits.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sai-nithin" height="40" width="40" /></a>
 
