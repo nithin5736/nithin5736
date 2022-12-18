@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://media4.giphy.com/media/iacy1iCRyhgBNi6Mq1/giphy.gif" alt="nithin5736" /> 
 </br>
 
-![](https://github.com/nithin5736)?username=nithin5736&label=PROFILE+VIEWS)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin5736&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="sai-nithin" /> </p>
 
 
 ## 👨‍🎓 About Me
