@@ -4,6 +4,9 @@
 <img align="right" width="400" src="https://media4.giphy.com/media/iacy1iCRyhgBNi6Mq1/giphy.gif" alt="nithin5736" /> 
 </br>
 
+![](https://github.com/nithin5736)?username=nithin5736&label=PROFILE+VIEWS)
+
+
 ## 👨‍🎓 About Me
 
 Hey ! I am Sainithin. I am a passionate Web developer and Programmer. I like to develop applications using node.js framework for backend and react.js framework or javascript for frontend. I am a cinephile, melophile and love to play cricket 😁.
