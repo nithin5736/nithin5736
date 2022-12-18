@@ -1,10 +1,10 @@
 <h1 align="center"> Hey, I'm Sai Nithin. 👋 </h1>
 
-## 👨‍🎓 About Me
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin5736&label=Profile%20views&color=0e75b6&style=flat" alt="nithin5736" /> </p>
 
-Iam a passionate web developer.I like to build applications using node.js library for backened and React.js library or Javascript for frontened
+## 👨‍🎓 About Me
+
+Hey ! I am Sainithin. I am a passionate Web developer and Programmer. I like to build applications using node.js library for backend and React.js library or javascript for frontend. I am cinephile, melophile and love to play cricket 😁.
 
 - Check out my portfolio - <a href="https://nithin5736-portfolio.netlify.app/">https://nithin5736-portfolio.netlify.app/</a>
 
