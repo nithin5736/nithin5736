@@ -24,6 +24,7 @@ Hey ! I am Sainithin. I am a Full Stack developer and Programmer. I like to deve
 
 <br />
 <br />
+<br />
 
 ## 📬 Get in touch
 
@@ -32,7 +33,8 @@ Hey ! I am Sainithin. I am a Full Stack developer and Programmer. I like to deve
 <a href="https://www.linkedin.com/in/sai-nithin-6495801b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-nithin" height="40" width="40" /></a>
 <a href="mailto:sainithin.g20@iiits.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sai-nithin" height="40" width="40" /></a>
 
- <br />
+<br />
+<br />
 <br />
   
 ## &#x1f4c8; GitHub Stats
