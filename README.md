@@ -9,7 +9,7 @@
 
 ## 👨‍🎓 About Me
 
-Hey ! I am Sainithin. I am a Full Stack developer and Programmer. I like to develop applications using node.js framework for backend and react.js framework or javascript for frontend.
+Hey ! I am Sainithin. I am a Full Stack developer and Programmer.
 
 <br />
 <br />
