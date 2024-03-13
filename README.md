@@ -5,7 +5,7 @@
 
 ## 👨‍🎓 About Me
 
-Hey ! I am Sainithin. I am a Full Stack developer and Programmer.
+Hello ! I'm Sainithin. I am a Full Stack developer and Programmer.
 
 <br />
 
